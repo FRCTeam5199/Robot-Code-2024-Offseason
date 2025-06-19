@@ -34,7 +34,7 @@ public class Constants {
     public static final double NOTE_TRAVEL_INSIDE_DELTA_S = 1.0; // TODO: calculate
 
     /* ========== NATURAL CONSTANTS ========== */
-    public static final double GRAVITY_MPS2 = -9.81;
+    public static final double GRAVITY_MPS2 = -10;
     /* For Drivetrain Auto */
     public static final double TRANSLATION_MAX_TRIM_SPEED_MPS = 1;
     public static final Rotation2d ANGLE_MAX_TRIM_SPEED_DPS = Rotation2d.fromDegrees(90.0);
